@@ -1,3 +1,6 @@
+
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
