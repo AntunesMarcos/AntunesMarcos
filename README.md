@@ -19,10 +19,4 @@ Como aprendiz de desenvolvimento backend, estou continuamente em busca de aprimo
 <br>
 <img src="https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<hr>
-<img height="20" alt="GIF" src="https://github.com/AntunesMarcos/AntunesMarcos/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
-<div>
-<img  alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntunesMarcos&theme=github_dark"/>
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntunesMarcos&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntunesMarcos&theme=github_dark"/>
-</div>
+
