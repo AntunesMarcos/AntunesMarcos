@@ -21,9 +21,9 @@ Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios
 <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
-<table>
+<table >
 <tr>
- <td align="center"></td>
+ <td align="center " ></td>
 </tr>
 <tr>
  <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://raw.githubusercontent.com/AntunesMarcos/AntunesMarcos/main/img/github-user-contribution.svg?theme=dark" /></a></td>
