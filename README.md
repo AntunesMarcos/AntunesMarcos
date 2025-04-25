@@ -25,9 +25,10 @@ Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios
  <td align="center"></td>
 </tr>
 <tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://github.com/AntunesMarcos/AntunesMarcos/blob/main/img/github-user-contribution.svg?raw=true"/></a></td>
+ <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://raw.githubusercontent.com/AntunesMarcos/AntunesMarcos/main/img/github-user-contribution.svg" /></a></td>
 </tr>
 <tr>
  <td align="center"></td>
 </tr> 
 </table>
+
