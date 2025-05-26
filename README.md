@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Marcos+Antunes)](https://git.io/typing-svg)
 
-Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no desenvolvimento backend. Por isso, decidi aprofundar meus conhecimentos ao cursar Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), onde estou atualmente matriculado. Além disso, possuo formação técnica em Informática pelo Instituto Federal do Norte de Minas Gerais (IFNMG), campus Almenara, onde adquiri uma base sólida em programação e redes
+### Estou sempre em busca de aprimorar minhas habilidades e enfrentar novos desafios no desenvolvimento backend. Por isso, decidi aprofundar meus conhecimentos ao cursar Engenharia de Software na Pontifícia Universidade Católica de Minas Gerais (PUC Minas), onde estou atualmente matriculado. Além disso, possuo formação técnica em Informática pelo Instituto Federal do Norte de Minas Gerais (IFNMG), campus Almenara, onde adquiri uma base sólida em programação e redes
 
 🔹 Constantemente Resolvendo Problemas básicos
 
