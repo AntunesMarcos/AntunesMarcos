@@ -1,4 +1,4 @@
-### Desenvolvedor Backend
+### Desenvolvedor Full Stack
 ---
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos_Antunes-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcos-antunes-7190572ba/)](https://www.linkedin.com/in/marcos-antunes-7190572ba/) 
