@@ -1,6 +1,5 @@
-### Desenvolvedor Full Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=25&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 ---
-
 [![Linkedin Badge](https://img.shields.io/badge/-Marcos_Antunes-151515?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/marcos-antunes-7190572ba/)](https://www.linkedin.com/in/marcos-antunes-7190572ba/) 
 [![Gmail Badge](https://img.shields.io/badge/-Marcos_Antune5_-151515?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcos_antune5/)](https://www.instagram.com/marcos_antune5/)
 
