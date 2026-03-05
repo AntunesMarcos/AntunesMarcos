@@ -131,7 +131,7 @@
 </td>
 <td>
 
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=AntunesMarcos&width=400"/></a>
+<a href="hhttps://www.last.fm/user/AntunesMarcos" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=AntunesMarcos&width=400"/></a>
 </td>
 </tr>
 <tr>
