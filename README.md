@@ -3,6 +3,8 @@
 <br> <br>
 <p>Olá! Sou estudante de Engenharia de Software na PUC Minas (Coreu). Estou construindo uma base sólida de conhecimentos teóricos, e meu maior objetivo atual é transformar esse aprendizado na construção de aplicações reais. Tenho um foco claro em me especializar no desenvolvimento back-end, explorando linguagens como Java e aprimorando a qualidade do código com testes. Trabalho todos os dias para evoluir minhas habilidades práticas, com a visão de longo prazo de me tornar um Engenheiro de Software de excelência.</p>
 
+
+-----
 <table aling="center">
   <tr>
     <td><a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=AntunesMarcos&theme=dracula&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de AntunesMarcos" width="466" height="194" loading="lazy" /></a></td>
@@ -10,6 +12,7 @@
   </tr>
 </table>
 
+-----
 <table>
 <tr>
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@AntunesMarcos">WakaTime</a></td>
@@ -80,6 +83,20 @@
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+</div>
+
+<div align="center">
+
+```text
+███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ ███████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
+██╔████╔██║███████║██████╔╝██║     ██║   ██║███████╗
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║╚════██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝███████║
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
+                                                    
+```                                        
+
 </div>
 
 
