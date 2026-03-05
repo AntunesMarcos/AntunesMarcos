@@ -105,7 +105,7 @@
 -----
 <p align="left">
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=AntunesMarcos&color=blueviolet"/>
-<img alt="Full Time" src="https://wakatime.com/badge/user/1f68ba20-55a5-4db1-b914-51b71cc577cc.svg">
+<a href="https://wakatime.com/@1f68ba20-55a5-4db1-b914-51b71cc577cc"><img src="https://wakatime.com/badge/user/1f68ba20-55a5-4db1-b914-51b71cc577cc.svg" alt="Total time coded since Mar 4 2026" /></a>
 </p>
 
 -----
