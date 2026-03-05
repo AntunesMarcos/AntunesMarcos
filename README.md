@@ -18,9 +18,9 @@
  <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@AntunesMarcos">WakaTime</a></td>
 </tr> 
 <tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=AntunesMarcos&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=@AntunesMarcos&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
 <td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=AntunesMarcos&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=@AntunesMarcos&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
 </td>
 </tr>
 </table>
@@ -105,7 +105,7 @@
 -----
 <p align="left">
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=AntunesMarcos&color=blueviolet"/>
-<img alt="Full time" src="https://wakatime.com/badge/user/1f68ba20-55a5-4db1-b914-51b71cc577cc.svg" />
+<img alt="Full Time" src="https://wakatime.com/badge/user/1f68ba20-55a5-4db1-b914-51b71cc577cc.svg">
 </p>
 
 -----
